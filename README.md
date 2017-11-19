@@ -1,6 +1,7 @@
 # Awesome Metal
 A collection of Metal and MetalKit projects and resources
 
+
 # Blogs and books
 - [Metal by Example](https://github.com/metal-by-example/sample-code)
 - [Metal by Example in Swift](https://github.com/carolight/MBEsample-code)
@@ -20,6 +21,9 @@ A collection of Metal and MetalKit projects and resources
 ## 3D
 - [3D City Models Viewer](https://github.com/tudelft3d/azul)
 - [Sky, Water, Terrain](https://github.com/ryanmilvenan/advanced_graphics)
+
+## Links 
+- https://github.com/terkelg/awesome-creative-coding
 
 # Unorganized
 I don't know how to ogranize or name these. This can just be the default catch at the end of the page. Just dump links here if you don't have time to properly place. This all is an experiment in a shared Slack note. Everyone can and should edit to make better. 
