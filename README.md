@@ -1,21 +1,14 @@
-# awesome-metal
+# Awesome Metal
 A collection of Metal and MetalKit projects and resources
 
 # Blogs and books
-## Metal by Example
-https://github.com/metal-by-example/sample-code
-## Metal by Example in Swift
-https://github.com/carolight/MBEsample-code
-## MetalKit.org
-https://github.com/MetalKit
-## Metal blog about compute
-http://flexmonkey.blogspot.com/search?q=metal
-## Metal video course and blog posts
-https://www.raywenderlich.com/?s=metal
-## Metal for deep learning
-https://memkite.com/blog/category/metal-2/index.html
-## Metal and neural networks
-http://machinethink.net/blog/
+- [Metal by Example](https://github.com/metal-by-example/sample-code)
+- [Metal by Example in Swift](https://github.com/carolight/MBEsample-code)
+- [MetalKit.org](https://github.com/MetalKit)
+- [Metal blog about compute](http://flexmonkey.blogspot.com/search?q=metal)
+- [Metal video course and blog posts](https://www.raywenderlich.com/?s=metal)
+- [Metal for deep learning](https://memkite.com/blog/category/metal-2/index.html)
+- [Metal and neural networks](http://machinethink.net/blog/)
 
 # 2D
 ## Metal Charting
