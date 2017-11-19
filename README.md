@@ -24,12 +24,9 @@ A collection of Metal and MetalKit projects and resources
 # Unorganized
 I don't know how to ogranize or name these. This can just be the default catch at the end of the page. Just dump links here if you don't have time to properly place. This all is an experiment in a shared Slack note. Everyone can and should edit to make better. 
 
-# Compute Kernels with Metal and Swift
-https://github.com/hyperjeff/CocoaConfChicago2017
-# GPU Quaternions performance tests
-https://github.com/endavid/VidEngine
-# Signed Distance Function
-https://github.com/novocodev/SDFMetalDemo
+- [Compute Kernels with Metal and Swift](https://github.com/hyperjeff/CocoaConfChicago2017)
+- [GPU Quaternions performance tests](https://github.com/endavid/VidEngine)
+- [Signed Distance Function](https://github.com/novocodev/SDFMetalDemo)
 
 # Image Editor
 https://github.com/au6155/PhotoApp
