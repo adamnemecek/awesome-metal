@@ -10,21 +10,16 @@ A collection of Metal and MetalKit projects and resources
 - [Metal for deep learning](https://memkite.com/blog/category/metal-2/index.html)
 - [Metal and neural networks](http://machinethink.net/blog/)
 
-# 2D
-## Metal Charting
-https://github.com/evadne/metrics
-## charting library using metal
-https://github.com/wfreaks/metal_chart
-## Bezier Curves all Callculated in Metal
-https://github.com/eldade/ios_metal_bezier_renderer
-## Graph View
-https://github.com/vegather/GraphView
+# Projects
+## 2D
+- [Metal Charting](https://github.com/evadne/metrics)
+- [charting library using metal](https://github.com/wfreaks/metal_chart)
+- [Bezier Curves all Callculated in Metal](https://github.com/eldade/ios_metal_bezier_renderer)
+- [Graph View](https://github.com/vegather/GraphView)
 
-# 3D
-## 3D City Models Viewer
-https://github.com/tudelft3d/azul
-## Sky, Water, Terrain
-https://github.com/ryanmilvenan/advanced_graphics
+## 3D
+- [3D City Models Viewer](https://github.com/tudelft3d/azul)
+- [Sky, Water, Terrain](https://github.com/ryanmilvenan/advanced_graphics)
 
 # Unorganized
 I don't know how to ogranize or name these. This can just be the default catch at the end of the page. Just dump links here if you don't have time to properly place. This all is an experiment in a shared Slack note. Everyone can and should edit to make better. 
