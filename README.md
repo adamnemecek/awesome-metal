@@ -30,5 +30,7 @@ I don't know how to ogranize or name these. This can just be the default catch a
 
 # Image Editor
 https://github.com/au6155/PhotoApp
+
 https://github.com/safx/waifu2x-metal
+
 https://github.com/ximhear/roulette
