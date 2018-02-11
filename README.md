@@ -40,6 +40,7 @@ I don't know how to ogranize or name these. This can just be the default catch a
 - [MandelBulbQuad](https://github.com/Kosalos/MandelBulbQuad)
 - [Dynamical iOS](https://github.com/Kosalos/Dynamical_IOS)
 - [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) 
+- [Fluid dynamics](https://github.com/andreipitis/FluidDynamicsMetal)
 
 # Image Editor
 https://github.com/au6155/PhotoApp
