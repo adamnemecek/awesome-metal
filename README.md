@@ -25,6 +25,8 @@ A collection of Metal and MetalKit projects and resources
 ## Links 
 - https://github.com/terkelg/awesome-creative-coding
 
+
+
 # Unorganized
 I don't know how to ogranize or name these. This can just be the default catch at the end of the page. Just dump links here if you don't have time to properly place. This all is an experiment in a shared Slack note. Everyone can and should edit to make better. 
 
@@ -37,6 +39,7 @@ I don't know how to ogranize or name these. This can just be the default catch a
 - [Marching cubes](https://github.com/Kosalos/MarchingCubes-Mac-OSX)
 - [MandelBulbQuad](https://github.com/Kosalos/MandelBulbQuad)
 - [Dynamical iOS](https://github.com/Kosalos/Dynamical_IOS)
+- [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) 
 
 # Image Editor
 https://github.com/au6155/PhotoApp
