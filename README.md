@@ -31,6 +31,12 @@ I don't know how to ogranize or name these. This can just be the default catch a
 - [Compute Kernels with Metal and Swift](https://github.com/hyperjeff/CocoaConfChicago2017)
 - [GPU Quaternions performance tests](https://github.com/endavid/VidEngine)
 - [Signed Distance Function](https://github.com/novocodev/SDFMetalDemo)
+- [https://github.com/mdejong/MetalHuffman](https://github.com/mdejong/MetalHuffman)
+- [Atoms](https://github.com/Kosalos/Atom_IOS)
+- [Dynamical stereo](https://github.com/Kosalos/Dynamical_Stereo)
+- [Marching cubes](https://github.com/Kosalos/MarchingCubes-Mac-OSX)
+- [MandelBulbQuad](https://github.com/Kosalos/MandelBulbQuad)
+- [Dynamical iOS](https://github.com/Kosalos/Dynamical_IOS)
 
 # Image Editor
 https://github.com/au6155/PhotoApp
