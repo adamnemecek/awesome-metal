@@ -22,6 +22,7 @@ A collection of Metal and MetalKit projects and resources
 - [3D City Models Viewer](https://github.com/tudelft3d/azul)
 - [Sky, Water, Terrain](https://github.com/ryanmilvenan/advanced_graphics)
 - [CesiumKit](https://github.com/tokyovigilante/CesiumKit)
+- [MetalGlobe](https://github.com/fixique/MetalGlobe)
 
 ## Links 
 - https://github.com/terkelg/awesome-creative-coding
