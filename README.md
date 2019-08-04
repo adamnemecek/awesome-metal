@@ -17,6 +17,7 @@ A collection of Metal and MetalKit projects and resources
 - [charting library using metal](https://github.com/wfreaks/metal_chart)
 - [Bezier Curves all Callculated in Metal](https://github.com/eldade/ios_metal_bezier_renderer)
 - [Graph View](https://github.com/vegather/GraphView)
+- [Hand drawing](https://github.com/OwenCalvin/hand-drawing-swift-metal)
 
 ## 3D
 - [3D City Models Viewer](https://github.com/tudelft3d/azul)
