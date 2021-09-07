@@ -24,6 +24,7 @@ A collection of Metal and MetalKit projects and resources
 - [Sky, Water, Terrain](https://github.com/ryanmilvenan/advanced_graphics)
 - [CesiumKit](https://github.com/tokyovigilante/CesiumKit)
 - [MetalGlobe](https://github.com/fixique/MetalGlobe)
+- [AR MultiPendulum](https://github.coom/philipturner/ar-multipendulum)
 
 ## Links 
 - https://github.com/terkelg/awesome-creative-coding
