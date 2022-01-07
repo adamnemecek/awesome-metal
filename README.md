@@ -26,6 +26,9 @@ A collection of Metal and MetalKit projects and resources
 - [MetalGlobe](https://github.com/fixique/MetalGlobe)
 - [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum)
 
+## Frameworks
+- [Satin](https://github.com/Hi-Rez/Satin)
+
 ## Links 
 - https://github.com/terkelg/awesome-creative-coding
 
