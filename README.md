@@ -28,6 +28,7 @@ A collection of Metal and MetalKit projects and resources
 - [Metal-SDF-Examples](https://github.com/shu223/Metal-SDF-Examples) (Both 3D and 2D)
 
 ## Frameworks
+- [GPUI](https://github.com/zed-industries/zed/tree/main/crates/gpui) is a GPU-accelerated UI framework for Rust with a Metal renderer on macOS. [Glim](https://github.com/NeoPanic/Glim) is a macOS file viewer and basic text editor built with GPUI Kit, a component library for GPUI.
 - [Satin](https://github.com/Hi-Rez/Satin) is a 3D graphics framework (inspired by threejs) that helps designers and developers work with Apple's Metal API. Satin provides helpful classes for creating meshes, materials, buffers, uniforms, geometries, pipelines (shaders), compute kernels, and more. It helps reduce tons of boilerplate code and provides a structure way to work with Metal. In active development. 
 
 ## Links 
